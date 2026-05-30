@@ -1,2 +1,2 @@
 # Crypto-Bot
-SUI Trading Monitors 
+SUI Trade Setup Monitors 
